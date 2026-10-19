@@ -33,8 +33,8 @@ A Streamlit web app that uses a trained **Random Forest classifier** to classify
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+https://github.com/salamiXpert/Bitcoin-Price-Band-Predictor.git
+cd <salamiXpert>
 ```
 
 ### 2. (Recommended) Create a virtual environment
