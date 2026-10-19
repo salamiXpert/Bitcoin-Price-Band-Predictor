@@ -166,7 +166,7 @@ if HAS_LOGO:
 st.title("Bitcoin Price-Band Predictor")
 st.caption(
     "Enter one day's Bitcoin market data and the model classifies the price into a band "
-    "(Low / Medium / High). It does not forecast tomorrow's price and is not financial advice."
+    "(Low / Medium / High)."
 )
 
 tab_single, tab_batch, tab_info = st.tabs(["Single prediction", "Batch (CSV)", "Model info"])
