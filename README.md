@@ -56,7 +56,7 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-The app opens at <http://localhost:8501>.
+The app opens at <https://bitcoin-price-band-predictor.streamlit.app/>.
 
 > The `.pkl` files were created with **scikit-learn 1.8.0**, which is pinned in `requirements.txt`. Using a different version may produce warnings or load errors. `pyarrow` is required to load `Bitcoin_features.pkl`.
 
